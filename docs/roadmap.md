@@ -56,7 +56,7 @@
 
 **资源：**
 - 《The Complete Lenormand Oracle Handbook》—— 推荐入门书
-- [雷诺曼学习笔记](/western/lenormand) —— 我的笔记
+- [雷诺曼学习笔记](western/lenormand) —— 我的笔记
 
 ---
 
@@ -74,7 +74,7 @@
 4. 大运流年（时间维度）
 
 **资源：**
-- [八字学习笔记](/eastern/bazi) —— 我的笔记（建设中）
+- [八字学习笔记](eastern/bazi) —— 我的笔记（建设中）
 
 ---
 
@@ -100,6 +100,6 @@
 
 ## 下一步
 
-- 开始学雷诺曼 → [雷诺曼笔记](/western/lenormand)
-- 开始学八字 → [八字笔记](/eastern/bazi)
-- 想了解所有板块的概览 → [西方神秘学概述](/western/) / [东方玄学概述](/eastern/)
+- 开始学雷诺曼 → [雷诺曼笔记](western/lenormand)
+- 开始学八字 → [八字笔记](eastern/bazi)
+- 想了解所有板块的概览 → [西方神秘学概述](western/) / [东方玄学概述](eastern/)

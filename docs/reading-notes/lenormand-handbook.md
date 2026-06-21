@@ -36,4 +36,4 @@
 ## 下一步
 
 - 边读边填这个笔记
-- 结合 [雷诺曼学习笔记](/western/lenormand) 一起用
+- 结合 [雷诺曼学习笔记](western/lenormand) 一起用

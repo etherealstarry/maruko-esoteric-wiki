@@ -22,5 +22,5 @@
 
 ## 下一步
 
-- 先学 [雷诺曼基础](/western/lenormand)
+- 先学 [雷诺曼基础](western/lenormand)
 - 边学边填这个页面

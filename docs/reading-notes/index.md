@@ -17,7 +17,7 @@
 
 ## 笔记模板
 
-点击这里 → [笔记模板](/reading-notes/template)
+点击这里 → [笔记模板](reading-notes/template)
 
 每次读新书，复制模板，填内容。
 
@@ -27,7 +27,7 @@
 
 | 书名 | 作者 | 状态 | 笔记链接 |
 |------|------|------|----------|
-| 《The Complete Lenormand Oracle Handbook》 | Caitlín Matthews | 在读 | [笔记](/reading-notes/lenormand-handbook)（待写） |
+| 《The Complete Lenormand Oracle Handbook》 | Caitlín Matthews | 在读 | [笔记](reading-notes/lenormand-handbook)（待写） |
 | 《子平真诠》 | 沈孝瞻 | 待读 | - |
 | 《穷通宝鉴》 | - | 待读 | - |
 
@@ -51,6 +51,6 @@
 
 ## 下一步
 
-- 用模板写第一篇笔记 → [笔记模板](/reading-notes/template)
-- 想了解怎么学 → [学习路线](/roadmap)
-- 想看实战案例 → [实战记录](/practice/)
+- 用模板写第一篇笔记 → [笔记模板](reading-notes/template)
+- 想了解怎么学 → [学习路线](roadmap)
+- 想看实战案例 → [实战记录](practice/)

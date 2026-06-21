@@ -195,6 +195,6 @@
 
 ## 下一步
 
-- 学完基础，进阶学大运流年 → [八字进阶](/eastern/bazi-advanced)（建设中）
-- 想学其他东方玄学 → [紫微斗数](/eastern/ziwei)
-- 想看东西方共通点 → [共通点研究](/commonalities)（建设中）
+- 学完基础，进阶学大运流年 → [八字进阶](eastern/bazi-advanced)（建设中）
+- 想学其他东方玄学 → [紫微斗数](eastern/ziwei)
+- 想看东西方共通点 → [共通点研究](commonalities)（建设中）

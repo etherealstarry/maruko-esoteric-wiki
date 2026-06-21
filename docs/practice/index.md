@@ -16,7 +16,7 @@
 
 ## 记录模板
 
-点击这里 → [实战记录模板](/practice/template)
+点击这里 → [实战记录模板](practice/template)
 
 每次占卜完，立刻记下来（不要等结果出来了再记，会失真）。
 
@@ -70,6 +70,6 @@
 
 ## 下一步
 
-- 用模板记录第一次实战 → [实战记录模板](/practice/template)
-- 想了解怎么学 → [学习路线](/roadmap)
-- 想看读书笔记 → [读书笔记](/reading-notes/)
+- 用模板记录第一次实战 → [实战记录模板](practice/template)
+- 想了解怎么学 → [学习路线](roadmap)
+- 想看读书笔记 → [读书笔记](reading-notes/)

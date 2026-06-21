@@ -42,10 +42,10 @@
 
 | 板块 | 难度 | 适合问的问题 |
 |------|------|-------------|
-| [雷诺曼](/western/lenormand) | ⭐⭐ | 具体事件（"这件事会怎样？"） |
-| [塔罗牌](/western/tarot) | ⭐⭐⭐ | 深层心理、灵性成长、复杂问题 |
-| [占星术](/western/astrology) | ⭐⭐⭐⭐ | 性格、长期趋势、关系合盘 |
-| [西方数术](/western/numerology) | ⭐⭐ | 性格分析、周期预测 |
+| [雷诺曼](western/lenormand) | ⭐⭐ | 具体事件（"这件事会怎样？"） |
+| [塔罗牌](western/tarot) | ⭐⭐⭐ | 深层心理、灵性成长、复杂问题 |
+| [占星术](western/astrology) | ⭐⭐⭐⭐ | 性格、长期趋势、关系合盘 |
+| [西方数术](western/numerology) | ⭐⭐ | 性格分析、周期预测 |
 
 ---
 
@@ -62,6 +62,6 @@
 
 ## 下一步
 
-- 零基础入门 → 先学 [雷诺曼](/western/lenormand)
-- 想直接挑战塔罗 → [塔罗牌笔记](/western/tarot)
-- 想了解占星 → [占星术笔记](/western/astrology)
+- 零基础入门 → 先学 [雷诺曼](western/lenormand)
+- 想直接挑战塔罗 → [塔罗牌笔记](western/tarot)
+- 想了解占星 → [占星术笔记](western/astrology)
