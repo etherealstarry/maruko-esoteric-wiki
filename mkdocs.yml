@@ -70,6 +70,12 @@ nav:
       - 紫微斗数: eastern/ziwei.md
       - 易经占卜: eastern/iching.md
       - 奇门遁甲: eastern/qimen.md
+      - 山（修行): eastern/shan.md
+      - 医（中医）: eastern/tcm.md
+      - 相（面相手相风水）:
+          - 面相: eastern/face-reading.md
+          - 手相: eastern/palmistry.md
+          - 风水: eastern/fengshui.md
   - 读书笔记:
       - 概述: reading-notes/index.md
       - 笔记模板: reading-notes/template.md
