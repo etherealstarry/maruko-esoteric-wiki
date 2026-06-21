@@ -4,7 +4,7 @@ export default defineConfig({
   title: '丸子玄学笔记',
   description: '西方神秘学 & 东方玄学 个人学习wiki',
   lang: 'zh-CN',
-  base: '/maruko-esoteric-wiki/',
+  base: '/',
 
   themeConfig: {
     nav: [

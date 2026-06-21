@@ -1,0 +1,80 @@
+site_name: 丸子玄学笔记
+site_description: 西方神秘学 & 东方玄学 个人学习wiki
+site_url: https://etherealstarry.github.io/maruko-esoteric-wiki/
+
+repo_name: etherealstarry/maruko-esoteric-wiki
+repo_url: https://github.com/etherealstarry/maruko-esoteric-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换至深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至浅色模式
+  features:
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - glightbox
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+
+nav:
+  - 首页: index.md
+  - 学习路线: roadmap.md
+  - 西方神秘学:
+      - 概述: western/index.md
+      - 雷诺曼: western/lenormand.md
+      - 塔罗牌: western/tarot.md
+      - 占星术: western/astrology.md
+      - 西方数术: western/numerology.md
+  - 东方玄学:
+      - 概述: eastern/index.md
+      - 八字: eastern/bazi.md
+      - 紫微斗数: eastern/ziwei.md
+      - 易经占卜: eastern/iching.md
+      - 奇门遁甲: eastern/qimen.md
+  - 读书笔记:
+      - 概述: reading-notes/index.md
+      - 笔记模板: reading-notes/template.md
+  - 实战记录:
+      - 概述: practice/index.md
+      - 记录模板: practice/template.md
+  - 工具箱:
+      - 概述: tools/index.md
+      - 排盘工具: tools/divination-tools.md
+      - 书单: tools/book-list.md
+  - 共通点研究: commonalities.md
